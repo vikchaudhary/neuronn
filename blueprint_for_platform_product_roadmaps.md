@@ -48,10 +48,6 @@ You have 13 H1 headings. You may want to use the "H1 -> H2" option to demote all
 <a href="#gdcalert14">alert14</a>
 <a href="#gdcalert15">alert15</a>
 
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # Blueprint for Platform Product Roadmaps
 
 
